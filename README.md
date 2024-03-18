@@ -48,7 +48,7 @@ The implementation of the object detection and distance prediction system with s
 
 Furthermore, the system has broader societal implications, as it contributes to the advancement of assistive technologies tailored for individuals with disabilities. By leveraging computer vision and speech synthesis technologies, it showcases the potential of AI-driven solutions in addressing accessibility challenges and promoting social inclusion. Additionally, the project fosters interdisciplinary collaboration between computer science and assistive technology domains, encouraging further innovation in accessible design and human-computer interaction research. Overall, the system's results and impacts underscore its transformative potential in improving the quality of life for visually impaired individuals and advancing inclusive technology solutions.
 
-## Articles published
+## References
 1. Doe, A., & Roe, B. (2019). Object Detection for Visually Impaired: A Preliminary Study. International Journal of Computer Applications, 182, 30-35.
 2. Lee, C., & Kim, D. (2017). A Vision-Based Navigation System for the Blind with Obstacle Detection and Speech Output. Sensors, 17(11), 2478.
 
